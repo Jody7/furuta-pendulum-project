@@ -3,4 +3,4 @@ driving a rotary inverted pendulum with BLDC Gimbal Motor
 
 
 
-![Demo](https://i.imgur.com/MKy6Gcd.gifv)
+![Demo](https://i.imgur.com/MKy6Gcd.gif)
